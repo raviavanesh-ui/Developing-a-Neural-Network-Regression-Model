@@ -48,7 +48,7 @@ Use the trained model to predict  for a new input value .
 
 ### Register Number: 212225240018
 
-```python
+```
 import torch
 import torch.nn as nn
 import torch.optim as optim
